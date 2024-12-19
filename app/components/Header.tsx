@@ -6,7 +6,7 @@ import Image from 'next/image';
 import {Facebook, Phone, Github, Linkedin, Mail} from "lucide-react";
 
 
-const profile = "/images/myprofile.jpg";
+const profile = "/images/myprofile.JPG";
 const Header = () => {
 
   // using for email link
