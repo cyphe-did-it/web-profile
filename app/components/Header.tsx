@@ -18,7 +18,7 @@ const Header = () => {
 
 
   return (
-    <div className='w-[400px] border-[2px] lg:border-[1px] border-orange-600  bg-white'>
+    <div className='w-[360px] md:w-[400px] border-[2px] lg:border-[1px] border-orange-600  bg-white'>
 
       {/* Image and Name */}
       <div className='flex flex-col items-center justify-center mb-4 bg-orange-600 text-white '>

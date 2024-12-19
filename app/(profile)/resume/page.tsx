@@ -4,9 +4,9 @@ import Exposure from "@/app/components/Exposure";
 
 const Resume = () => {
   return (
-    <div className=" lg:w-[100%]   lg:rounded-[20px]">
+    <div className="w-[360px] lg:w-[100%]   lg:rounded-[20px]">
       <div className='p-4'>
-        <div className="flex flex-wrap flex-col w-[368px] lg:w-[100%] gap-1">
+        <div className="flex flex-wrap flex-col  lg:w-[100%] gap-1">
           <div className="text-start text-[1.8rem] text-teal-600 font-extrabold p-1 hover:underline hover:underline-offset-6">
             Education
           </div>

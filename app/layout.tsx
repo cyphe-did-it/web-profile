@@ -28,7 +28,7 @@ export default function RootLayout({
           </div>
           
           {/* Right section */}
-          <div className="lg:flex lg:flex-col lg:items-center lg:justify-center border-[2px] border-teal-600 bg-white  lg:bg-teal-600 w-[400px] shadow shadow-white
+          <div className="lg:flex lg:flex-col lg:items-center lg:justify-center border-[2px] border-teal-600 bg-white  lg:bg-teal-600  shadow shadow-white
           md:w-[400px] lg:w-[800px] lg:h-[675.2px] ">
             <div className="flex items-center justify-center lg:w-[780px] lg:h-[8%] lg:mt-2 bg-white ">
               <Navigation />

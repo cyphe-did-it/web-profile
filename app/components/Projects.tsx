@@ -36,6 +36,7 @@ const Projects1 = () => {
         <>
             {/* FOR SORTINBOT  */}
             <div className={`
+            w-[360px] md:w-[400px] lg:w-[99%]
             border-[2px] border-teal-600 text-center p-1 m-1
             lg:text-justify transition-all duration-300 ease-out transform ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'}
             `}>
@@ -101,6 +102,7 @@ const Projects2 = () => {
         <>
             {/* FOR PRODUCT-ENTRY  */}
             <div className={`
+            w-[360px] md:w-[400px] lg:w-[99%]
             border-[2px] border-teal-600 text-center p-1 m-1
             lg:text-justify transition-all duration-500 ease-out transform ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'}
             `}>
@@ -162,6 +164,7 @@ const Projects3 = () => {
         <>
             {/* FOR CROP PROD  */}
             <div className={`
+            w-[360px] md:w-[400px] lg:w-[99%]
             border-[2px] border-teal-600 text-center p-1 m-1
             lg:text-justify transition-all duration-700 ease-out transform ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-20 opacity-0'}
             `}>
